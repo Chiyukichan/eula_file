@@ -79,7 +79,7 @@ a:not(.btn-social-icon):not(.btn-social):not(.page-link) .fab {
 }
 
 .bg-primary {
-  background-color: #F19EC2 !important;
+  background-color: #6a9fff !important;
 }
 
 .bg-secondary {
@@ -1629,9 +1629,9 @@ h6 .badge {
 }
 
 .btn-primary, .btn-primary.disabled {
-  box-shadow: 0 2px 6px #f19ec2;
-  background-color: #F19EC2;
-  border-color: #f19ec2;
+  box-shadow: 0 2px 6px #9eb4f1;
+  background-color: #6ca2ff;
+  border-color: #3680ff;
 }
 .btn-primary:focus, .btn-primary.disabled:focus {
   background-color: #394eea !important;
